@@ -1,0 +1,15 @@
+C:\Users\danym\source\repos\ecuacionesCuadraticas\obj\Debug\net7.0\ecuacionesCuadraticas.csproj.AssemblyReference.cache
+C:\Users\danym\source\repos\ecuacionesCuadraticas\obj\Debug\net7.0\ecuacionesCuadraticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danym\source\repos\ecuacionesCuadraticas\obj\Debug\net7.0\ecuacionesCuadraticas.AssemblyInfoInputs.cache
+C:\Users\danym\source\repos\ecuacionesCuadraticas\obj\Debug\net7.0\ecuacionesCuadraticas.AssemblyInfo.cs
+C:\Users\danym\source\repos\ecuacionesCuadraticas\obj\Debug\net7.0\ecuacionesCuadraticas.csproj.CoreCompileInputs.cache
+C:\Users\danym\source\repos\ecuacionesCuadraticas\bin\Debug\net7.0\ecuacionesCuadraticas.exe
+C:\Users\danym\source\repos\ecuacionesCuadraticas\bin\Debug\net7.0\ecuacionesCuadraticas.deps.json
+C:\Users\danym\source\repos\ecuacionesCuadraticas\bin\Debug\net7.0\ecuacionesCuadraticas.runtimeconfig.json
+C:\Users\danym\source\repos\ecuacionesCuadraticas\bin\Debug\net7.0\ecuacionesCuadraticas.dll
+C:\Users\danym\source\repos\ecuacionesCuadraticas\bin\Debug\net7.0\ecuacionesCuadraticas.pdb
+C:\Users\danym\source\repos\ecuacionesCuadraticas\obj\Debug\net7.0\ecuacionesCuadraticas.dll
+C:\Users\danym\source\repos\ecuacionesCuadraticas\obj\Debug\net7.0\refint\ecuacionesCuadraticas.dll
+C:\Users\danym\source\repos\ecuacionesCuadraticas\obj\Debug\net7.0\ecuacionesCuadraticas.pdb
+C:\Users\danym\source\repos\ecuacionesCuadraticas\obj\Debug\net7.0\ecuacionesCuadraticas.genruntimeconfig.cache
+C:\Users\danym\source\repos\ecuacionesCuadraticas\obj\Debug\net7.0\ref\ecuacionesCuadraticas.dll
