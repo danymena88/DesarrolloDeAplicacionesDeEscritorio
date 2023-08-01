@@ -1,0 +1,15 @@
+C:\Users\Mena\Desktop\apagarPC\apagarPC\bin\Debug\net7.0\apagarPC.exe
+C:\Users\Mena\Desktop\apagarPC\apagarPC\bin\Debug\net7.0\apagarPC.deps.json
+C:\Users\Mena\Desktop\apagarPC\apagarPC\bin\Debug\net7.0\apagarPC.runtimeconfig.json
+C:\Users\Mena\Desktop\apagarPC\apagarPC\bin\Debug\net7.0\apagarPC.dll
+C:\Users\Mena\Desktop\apagarPC\apagarPC\bin\Debug\net7.0\apagarPC.pdb
+C:\Users\Mena\Desktop\apagarPC\apagarPC\obj\Debug\net7.0\apagarPC.csproj.AssemblyReference.cache
+C:\Users\Mena\Desktop\apagarPC\apagarPC\obj\Debug\net7.0\apagarPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mena\Desktop\apagarPC\apagarPC\obj\Debug\net7.0\apagarPC.AssemblyInfoInputs.cache
+C:\Users\Mena\Desktop\apagarPC\apagarPC\obj\Debug\net7.0\apagarPC.AssemblyInfo.cs
+C:\Users\Mena\Desktop\apagarPC\apagarPC\obj\Debug\net7.0\apagarPC.csproj.CoreCompileInputs.cache
+C:\Users\Mena\Desktop\apagarPC\apagarPC\obj\Debug\net7.0\apagarPC.dll
+C:\Users\Mena\Desktop\apagarPC\apagarPC\obj\Debug\net7.0\refint\apagarPC.dll
+C:\Users\Mena\Desktop\apagarPC\apagarPC\obj\Debug\net7.0\apagarPC.pdb
+C:\Users\Mena\Desktop\apagarPC\apagarPC\obj\Debug\net7.0\apagarPC.genruntimeconfig.cache
+C:\Users\Mena\Desktop\apagarPC\apagarPC\obj\Debug\net7.0\ref\apagarPC.dll
