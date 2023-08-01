@@ -1,0 +1,15 @@
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\1-totalAcumuladoCompra\obj\Debug\net7.0\1-totalAcumuladoCompra.csproj.AssemblyReference.cache
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\1-totalAcumuladoCompra\obj\Debug\net7.0\1-totalAcumuladoCompra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\1-totalAcumuladoCompra\obj\Debug\net7.0\1-totalAcumuladoCompra.AssemblyInfoInputs.cache
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\1-totalAcumuladoCompra\obj\Debug\net7.0\1-totalAcumuladoCompra.AssemblyInfo.cs
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\1-totalAcumuladoCompra\obj\Debug\net7.0\1-totalAcumuladoCompra.csproj.CoreCompileInputs.cache
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\1-totalAcumuladoCompra\bin\Debug\net7.0\1-totalAcumuladoCompra.exe
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\1-totalAcumuladoCompra\bin\Debug\net7.0\1-totalAcumuladoCompra.deps.json
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\1-totalAcumuladoCompra\bin\Debug\net7.0\1-totalAcumuladoCompra.runtimeconfig.json
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\1-totalAcumuladoCompra\bin\Debug\net7.0\1-totalAcumuladoCompra.dll
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\1-totalAcumuladoCompra\bin\Debug\net7.0\1-totalAcumuladoCompra.pdb
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\1-totalAcumuladoCompra\obj\Debug\net7.0\1-totalAcumuladoCompra.dll
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\1-totalAcumuladoCompra\obj\Debug\net7.0\refint\1-totalAcumuladoCompra.dll
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\1-totalAcumuladoCompra\obj\Debug\net7.0\1-totalAcumuladoCompra.pdb
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\1-totalAcumuladoCompra\obj\Debug\net7.0\1-totalAcumuladoCompra.genruntimeconfig.cache
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\1-totalAcumuladoCompra\obj\Debug\net7.0\ref\1-totalAcumuladoCompra.dll
