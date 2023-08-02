@@ -1,0 +1,15 @@
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\5-leer-O-EscribirUnTXT\bin\Debug\net7.0\5-leer-O-EscribirUnTXT.exe
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\5-leer-O-EscribirUnTXT\bin\Debug\net7.0\5-leer-O-EscribirUnTXT.deps.json
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\5-leer-O-EscribirUnTXT\bin\Debug\net7.0\5-leer-O-EscribirUnTXT.runtimeconfig.json
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\5-leer-O-EscribirUnTXT\bin\Debug\net7.0\5-leer-O-EscribirUnTXT.dll
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\5-leer-O-EscribirUnTXT\bin\Debug\net7.0\5-leer-O-EscribirUnTXT.pdb
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\5-leer-O-EscribirUnTXT\obj\Debug\net7.0\5-leer-O-EscribirUnTXT.csproj.AssemblyReference.cache
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\5-leer-O-EscribirUnTXT\obj\Debug\net7.0\5-leer-O-EscribirUnTXT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\5-leer-O-EscribirUnTXT\obj\Debug\net7.0\5-leer-O-EscribirUnTXT.AssemblyInfoInputs.cache
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\5-leer-O-EscribirUnTXT\obj\Debug\net7.0\5-leer-O-EscribirUnTXT.AssemblyInfo.cs
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\5-leer-O-EscribirUnTXT\obj\Debug\net7.0\5-leer-O-EscribirUnTXT.csproj.CoreCompileInputs.cache
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\5-leer-O-EscribirUnTXT\obj\Debug\net7.0\5-leer-O-EscribirUnTXT.dll
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\5-leer-O-EscribirUnTXT\obj\Debug\net7.0\refint\5-leer-O-EscribirUnTXT.dll
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\5-leer-O-EscribirUnTXT\obj\Debug\net7.0\5-leer-O-EscribirUnTXT.pdb
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\5-leer-O-EscribirUnTXT\obj\Debug\net7.0\5-leer-O-EscribirUnTXT.genruntimeconfig.cache
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\5-leer-O-EscribirUnTXT\obj\Debug\net7.0\ref\5-leer-O-EscribirUnTXT.dll
