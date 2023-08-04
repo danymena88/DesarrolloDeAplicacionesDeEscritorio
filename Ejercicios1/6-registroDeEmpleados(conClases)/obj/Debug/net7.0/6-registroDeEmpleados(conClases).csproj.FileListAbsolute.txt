@@ -1,0 +1,15 @@
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\6-registroDeEmpleados(conClases)\bin\Debug\net7.0\6-registroDeEmpleados(conClases).exe
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\6-registroDeEmpleados(conClases)\bin\Debug\net7.0\6-registroDeEmpleados(conClases).deps.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\6-registroDeEmpleados(conClases)\bin\Debug\net7.0\6-registroDeEmpleados(conClases).runtimeconfig.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\6-registroDeEmpleados(conClases)\bin\Debug\net7.0\6-registroDeEmpleados(conClases).dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\6-registroDeEmpleados(conClases)\bin\Debug\net7.0\6-registroDeEmpleados(conClases).pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\6-registroDeEmpleados(conClases)\obj\Debug\net7.0\6-registroDeEmpleados(conClases).csproj.AssemblyReference.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\6-registroDeEmpleados(conClases)\obj\Debug\net7.0\6-registroDeEmpleados(conClases).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\6-registroDeEmpleados(conClases)\obj\Debug\net7.0\6-registroDeEmpleados(conClases).AssemblyInfoInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\6-registroDeEmpleados(conClases)\obj\Debug\net7.0\6-registroDeEmpleados(conClases).AssemblyInfo.cs
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\6-registroDeEmpleados(conClases)\obj\Debug\net7.0\6-registroDeEmpleados(conClases).csproj.CoreCompileInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\6-registroDeEmpleados(conClases)\obj\Debug\net7.0\6-registroDeEmpleados(conClases).dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\6-registroDeEmpleados(conClases)\obj\Debug\net7.0\refint\6-registroDeEmpleados(conClases).dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\6-registroDeEmpleados(conClases)\obj\Debug\net7.0\6-registroDeEmpleados(conClases).pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\6-registroDeEmpleados(conClases)\obj\Debug\net7.0\6-registroDeEmpleados(conClases).genruntimeconfig.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios1\6-registroDeEmpleados(conClases)\obj\Debug\net7.0\ref\6-registroDeEmpleados(conClases).dll
