@@ -1,0 +1,14 @@
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numeroMayoryMenor\bin\Debug\net6.0\numeroMayoryMenor.exe
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numeroMayoryMenor\bin\Debug\net6.0\numeroMayoryMenor.deps.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numeroMayoryMenor\bin\Debug\net6.0\numeroMayoryMenor.runtimeconfig.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numeroMayoryMenor\bin\Debug\net6.0\numeroMayoryMenor.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numeroMayoryMenor\bin\Debug\net6.0\numeroMayoryMenor.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numeroMayoryMenor\obj\Debug\net6.0\numeroMayoryMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numeroMayoryMenor\obj\Debug\net6.0\numeroMayoryMenor.AssemblyInfoInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numeroMayoryMenor\obj\Debug\net6.0\numeroMayoryMenor.AssemblyInfo.cs
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numeroMayoryMenor\obj\Debug\net6.0\numeroMayoryMenor.csproj.CoreCompileInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numeroMayoryMenor\obj\Debug\net6.0\numeroMayoryMenor.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numeroMayoryMenor\obj\Debug\net6.0\refint\numeroMayoryMenor.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numeroMayoryMenor\obj\Debug\net6.0\numeroMayoryMenor.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numeroMayoryMenor\obj\Debug\net6.0\numeroMayoryMenor.genruntimeconfig.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numeroMayoryMenor\obj\Debug\net6.0\ref\numeroMayoryMenor.dll

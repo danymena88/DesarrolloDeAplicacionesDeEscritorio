@@ -1,0 +1,14 @@
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\totalPrecioArticulo\bin\Debug\net6.0\totalPrecioArticulo.exe
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\totalPrecioArticulo\bin\Debug\net6.0\totalPrecioArticulo.deps.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\totalPrecioArticulo\bin\Debug\net6.0\totalPrecioArticulo.runtimeconfig.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\totalPrecioArticulo\bin\Debug\net6.0\totalPrecioArticulo.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\totalPrecioArticulo\bin\Debug\net6.0\totalPrecioArticulo.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\totalPrecioArticulo\obj\Debug\net6.0\totalPrecioArticulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\totalPrecioArticulo\obj\Debug\net6.0\totalPrecioArticulo.AssemblyInfoInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\totalPrecioArticulo\obj\Debug\net6.0\totalPrecioArticulo.AssemblyInfo.cs
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\totalPrecioArticulo\obj\Debug\net6.0\totalPrecioArticulo.csproj.CoreCompileInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\totalPrecioArticulo\obj\Debug\net6.0\totalPrecioArticulo.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\totalPrecioArticulo\obj\Debug\net6.0\refint\totalPrecioArticulo.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\totalPrecioArticulo\obj\Debug\net6.0\totalPrecioArticulo.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\totalPrecioArticulo\obj\Debug\net6.0\totalPrecioArticulo.genruntimeconfig.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\totalPrecioArticulo\obj\Debug\net6.0\ref\totalPrecioArticulo.dll

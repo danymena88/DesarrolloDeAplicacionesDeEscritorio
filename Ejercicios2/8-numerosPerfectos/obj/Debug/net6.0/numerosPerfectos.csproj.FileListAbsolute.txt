@@ -1,0 +1,14 @@
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numerosPerfectos\bin\Debug\net6.0\numerosPerfectos.exe
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numerosPerfectos\bin\Debug\net6.0\numerosPerfectos.deps.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numerosPerfectos\bin\Debug\net6.0\numerosPerfectos.runtimeconfig.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numerosPerfectos\bin\Debug\net6.0\numerosPerfectos.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numerosPerfectos\bin\Debug\net6.0\numerosPerfectos.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numerosPerfectos\obj\Debug\net6.0\numerosPerfectos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numerosPerfectos\obj\Debug\net6.0\numerosPerfectos.AssemblyInfoInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numerosPerfectos\obj\Debug\net6.0\numerosPerfectos.AssemblyInfo.cs
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numerosPerfectos\obj\Debug\net6.0\numerosPerfectos.csproj.CoreCompileInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numerosPerfectos\obj\Debug\net6.0\numerosPerfectos.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numerosPerfectos\obj\Debug\net6.0\refint\numerosPerfectos.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numerosPerfectos\obj\Debug\net6.0\numerosPerfectos.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numerosPerfectos\obj\Debug\net6.0\numerosPerfectos.genruntimeconfig.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\numerosPerfectos\obj\Debug\net6.0\ref\numerosPerfectos.dll

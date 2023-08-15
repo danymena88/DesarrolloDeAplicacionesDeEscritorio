@@ -11,23 +11,7 @@ namespace _6_registroDeEmpleados_conClases_
         private string nombre, nit;
         private int dui;
         private double salarioXhora, horasTrabajadas, salario, renta, neto;
-        public string NombreEmpleado
-        {
-            get { return nombre; }
-            set { nombre = value; }
-        }
-        public string Nit
-        {
-            get { return nit; }
-            set { nit = value; }
-        }
-        public int Dui
-        {
-            get { return dui; }
-            set { dui = value; }
-        }
-        public double SalarioXhora { get => salarioXhora; set => salarioXhora = value; }
-        public double HorasTrabajadas { get => horasTrabajadas; set => horasTrabajadas = value; }
+        
 
         public void crearEmpleado(string _nombre, int _dui, string _nit, double _salarioXhora, double _horasTrabajadas)
         {
@@ -55,7 +39,7 @@ namespace _6_registroDeEmpleados_conClases_
             PrintLine();
         }
 
-        public void PrintLine()
+        static void PrintLine()
         {
             int tableWidth = 120;
             Console.WriteLine(new string('-', tableWidth));

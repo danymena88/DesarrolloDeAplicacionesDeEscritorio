@@ -1,0 +1,14 @@
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\ejemploForeach\bin\Debug\net6.0\ejemploForeach.exe
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\ejemploForeach\bin\Debug\net6.0\ejemploForeach.deps.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\ejemploForeach\bin\Debug\net6.0\ejemploForeach.runtimeconfig.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\ejemploForeach\bin\Debug\net6.0\ejemploForeach.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\ejemploForeach\bin\Debug\net6.0\ejemploForeach.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\ejemploForeach\obj\Debug\net6.0\ejemploForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\ejemploForeach\obj\Debug\net6.0\ejemploForeach.AssemblyInfoInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\ejemploForeach\obj\Debug\net6.0\ejemploForeach.AssemblyInfo.cs
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\ejemploForeach\obj\Debug\net6.0\ejemploForeach.csproj.CoreCompileInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\ejemploForeach\obj\Debug\net6.0\ejemploForeach.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\ejemploForeach\obj\Debug\net6.0\refint\ejemploForeach.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\ejemploForeach\obj\Debug\net6.0\ejemploForeach.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\ejemploForeach\obj\Debug\net6.0\ejemploForeach.genruntimeconfig.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\ejemploForeach\obj\Debug\net6.0\ref\ejemploForeach.dll

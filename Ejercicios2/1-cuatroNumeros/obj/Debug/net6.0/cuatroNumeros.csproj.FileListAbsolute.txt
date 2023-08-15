@@ -1,0 +1,14 @@
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\cuatroNumeros\obj\Debug\net6.0\cuatroNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\cuatroNumeros\obj\Debug\net6.0\cuatroNumeros.AssemblyInfoInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\cuatroNumeros\obj\Debug\net6.0\cuatroNumeros.AssemblyInfo.cs
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\cuatroNumeros\obj\Debug\net6.0\cuatroNumeros.csproj.CoreCompileInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\cuatroNumeros\bin\Debug\net6.0\cuatroNumeros.exe
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\cuatroNumeros\bin\Debug\net6.0\cuatroNumeros.deps.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\cuatroNumeros\bin\Debug\net6.0\cuatroNumeros.runtimeconfig.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\cuatroNumeros\bin\Debug\net6.0\cuatroNumeros.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\cuatroNumeros\bin\Debug\net6.0\cuatroNumeros.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\cuatroNumeros\obj\Debug\net6.0\cuatroNumeros.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\cuatroNumeros\obj\Debug\net6.0\refint\cuatroNumeros.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\cuatroNumeros\obj\Debug\net6.0\cuatroNumeros.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\cuatroNumeros\obj\Debug\net6.0\cuatroNumeros.genruntimeconfig.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\cuatroNumeros\obj\Debug\net6.0\ref\cuatroNumeros.dll

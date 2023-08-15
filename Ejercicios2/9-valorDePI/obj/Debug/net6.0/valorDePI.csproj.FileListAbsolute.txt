@@ -1,0 +1,14 @@
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\valorDePI\bin\Debug\net6.0\valorDePI.exe
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\valorDePI\bin\Debug\net6.0\valorDePI.deps.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\valorDePI\bin\Debug\net6.0\valorDePI.runtimeconfig.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\valorDePI\bin\Debug\net6.0\valorDePI.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\valorDePI\bin\Debug\net6.0\valorDePI.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\valorDePI\obj\Debug\net6.0\valorDePI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\valorDePI\obj\Debug\net6.0\valorDePI.AssemblyInfoInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\valorDePI\obj\Debug\net6.0\valorDePI.AssemblyInfo.cs
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\valorDePI\obj\Debug\net6.0\valorDePI.csproj.CoreCompileInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\valorDePI\obj\Debug\net6.0\valorDePI.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\valorDePI\obj\Debug\net6.0\refint\valorDePI.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\valorDePI\obj\Debug\net6.0\valorDePI.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\valorDePI\obj\Debug\net6.0\valorDePI.genruntimeconfig.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\valorDePI\obj\Debug\net6.0\ref\valorDePI.dll
