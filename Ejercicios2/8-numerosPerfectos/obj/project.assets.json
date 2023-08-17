@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\numerosPerfectos\\numerosPerfectos.csproj",
+      "projectUniqueName": "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\8-numerosPerfectos\\numerosPerfectos.csproj",
       "projectName": "numerosPerfectos",
-      "projectPath": "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\numerosPerfectos\\numerosPerfectos.csproj",
+      "projectPath": "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\8-numerosPerfectos\\numerosPerfectos.csproj",
       "packagesPath": "C:\\Users\\danym\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\numerosPerfectos\\obj\\",
+      "outputPath": "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\8-numerosPerfectos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danym\\AppData\\Roaming\\NuGet\\NuGet.Config",

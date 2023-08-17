@@ -12,3 +12,17 @@ C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\sumaDe
 C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\sumaDeNummerosPares\obj\Debug\net6.0\sumaDeNummerosPares.pdb
 C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\sumaDeNummerosPares\obj\Debug\net6.0\sumaDeNummerosPares.genruntimeconfig.cache
 C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\sumaDeNummerosPares\obj\Debug\net6.0\ref\sumaDeNummerosPares.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\7-sumaDeNummerosPares\bin\Debug\net6.0\sumaDeNummerosPares.exe
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\7-sumaDeNummerosPares\bin\Debug\net6.0\sumaDeNummerosPares.deps.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\7-sumaDeNummerosPares\bin\Debug\net6.0\sumaDeNummerosPares.runtimeconfig.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\7-sumaDeNummerosPares\bin\Debug\net6.0\sumaDeNummerosPares.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\7-sumaDeNummerosPares\bin\Debug\net6.0\sumaDeNummerosPares.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\7-sumaDeNummerosPares\obj\Debug\net6.0\sumaDeNummerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\7-sumaDeNummerosPares\obj\Debug\net6.0\sumaDeNummerosPares.AssemblyInfoInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\7-sumaDeNummerosPares\obj\Debug\net6.0\sumaDeNummerosPares.AssemblyInfo.cs
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\7-sumaDeNummerosPares\obj\Debug\net6.0\sumaDeNummerosPares.csproj.CoreCompileInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\7-sumaDeNummerosPares\obj\Debug\net6.0\sumaDeNummerosPares.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\7-sumaDeNummerosPares\obj\Debug\net6.0\refint\sumaDeNummerosPares.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\7-sumaDeNummerosPares\obj\Debug\net6.0\sumaDeNummerosPares.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\7-sumaDeNummerosPares\obj\Debug\net6.0\sumaDeNummerosPares.genruntimeconfig.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\7-sumaDeNummerosPares\obj\Debug\net6.0\ref\sumaDeNummerosPares.dll

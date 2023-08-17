@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\sumaDeNummerosPares\\sumaDeNummerosPares.csproj": {}
+    "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\7-sumaDeNummerosPares\\sumaDeNummerosPares.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\sumaDeNummerosPares\\sumaDeNummerosPares.csproj": {
+    "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\7-sumaDeNummerosPares\\sumaDeNummerosPares.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\sumaDeNummerosPares\\sumaDeNummerosPares.csproj",
+        "projectUniqueName": "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\7-sumaDeNummerosPares\\sumaDeNummerosPares.csproj",
         "projectName": "sumaDeNummerosPares",
-        "projectPath": "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\sumaDeNummerosPares\\sumaDeNummerosPares.csproj",
+        "projectPath": "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\7-sumaDeNummerosPares\\sumaDeNummerosPares.csproj",
         "packagesPath": "C:\\Users\\danym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\sumaDeNummerosPares\\obj\\",
+        "outputPath": "C:\\Users\\danym\\Documents\\DesarrolloDeAplicacionesDeEscritorio\\Ejercicios2\\7-sumaDeNummerosPares\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danym\\AppData\\Roaming\\NuGet\\NuGet.Config",

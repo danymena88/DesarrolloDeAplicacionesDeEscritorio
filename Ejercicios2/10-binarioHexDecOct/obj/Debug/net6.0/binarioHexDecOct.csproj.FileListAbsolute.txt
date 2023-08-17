@@ -1,0 +1,14 @@
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\binarioHexDecOct\bin\Debug\net6.0\binarioHexDecOct.exe
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\binarioHexDecOct\bin\Debug\net6.0\binarioHexDecOct.deps.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\binarioHexDecOct\bin\Debug\net6.0\binarioHexDecOct.runtimeconfig.json
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\binarioHexDecOct\bin\Debug\net6.0\binarioHexDecOct.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\binarioHexDecOct\bin\Debug\net6.0\binarioHexDecOct.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\binarioHexDecOct\obj\Debug\net6.0\binarioHexDecOct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\binarioHexDecOct\obj\Debug\net6.0\binarioHexDecOct.AssemblyInfoInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\binarioHexDecOct\obj\Debug\net6.0\binarioHexDecOct.AssemblyInfo.cs
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\binarioHexDecOct\obj\Debug\net6.0\binarioHexDecOct.csproj.CoreCompileInputs.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\binarioHexDecOct\obj\Debug\net6.0\binarioHexDecOct.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\binarioHexDecOct\obj\Debug\net6.0\refint\binarioHexDecOct.dll
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\binarioHexDecOct\obj\Debug\net6.0\binarioHexDecOct.pdb
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\binarioHexDecOct\obj\Debug\net6.0\binarioHexDecOct.genruntimeconfig.cache
+C:\Users\danym\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\binarioHexDecOct\obj\Debug\net6.0\ref\binarioHexDecOct.dll
