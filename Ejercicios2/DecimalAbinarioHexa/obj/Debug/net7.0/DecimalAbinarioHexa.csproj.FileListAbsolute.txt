@@ -1,0 +1,15 @@
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\DecimalAbinarioHexa\bin\Debug\net7.0\DecimalAbinarioHexa.exe
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\DecimalAbinarioHexa\bin\Debug\net7.0\DecimalAbinarioHexa.deps.json
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\DecimalAbinarioHexa\bin\Debug\net7.0\DecimalAbinarioHexa.runtimeconfig.json
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\DecimalAbinarioHexa\bin\Debug\net7.0\DecimalAbinarioHexa.dll
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\DecimalAbinarioHexa\bin\Debug\net7.0\DecimalAbinarioHexa.pdb
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\DecimalAbinarioHexa\obj\Debug\net7.0\DecimalAbinarioHexa.csproj.AssemblyReference.cache
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\DecimalAbinarioHexa\obj\Debug\net7.0\DecimalAbinarioHexa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\DecimalAbinarioHexa\obj\Debug\net7.0\DecimalAbinarioHexa.AssemblyInfoInputs.cache
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\DecimalAbinarioHexa\obj\Debug\net7.0\DecimalAbinarioHexa.AssemblyInfo.cs
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\DecimalAbinarioHexa\obj\Debug\net7.0\DecimalAbinarioHexa.csproj.CoreCompileInputs.cache
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\DecimalAbinarioHexa\obj\Debug\net7.0\DecimalAbinarioHexa.dll
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\DecimalAbinarioHexa\obj\Debug\net7.0\refint\DecimalAbinarioHexa.dll
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\DecimalAbinarioHexa\obj\Debug\net7.0\DecimalAbinarioHexa.pdb
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\DecimalAbinarioHexa\obj\Debug\net7.0\DecimalAbinarioHexa.genruntimeconfig.cache
+C:\Users\Mena\Documents\DesarrolloDeAplicacionesDeEscritorio\Ejercicios2\DecimalAbinarioHexa\obj\Debug\net7.0\ref\DecimalAbinarioHexa.dll
