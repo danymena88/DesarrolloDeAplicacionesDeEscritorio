@@ -1,0 +1,14 @@
+C:\Users\danym\Desktop\ExamenPractico1DAE\bin\Debug\net7.0\ExamenPractico1DAE.exe
+C:\Users\danym\Desktop\ExamenPractico1DAE\bin\Debug\net7.0\ExamenPractico1DAE.deps.json
+C:\Users\danym\Desktop\ExamenPractico1DAE\bin\Debug\net7.0\ExamenPractico1DAE.runtimeconfig.json
+C:\Users\danym\Desktop\ExamenPractico1DAE\bin\Debug\net7.0\ExamenPractico1DAE.dll
+C:\Users\danym\Desktop\ExamenPractico1DAE\bin\Debug\net7.0\ExamenPractico1DAE.pdb
+C:\Users\danym\Desktop\ExamenPractico1DAE\obj\Debug\net7.0\ExamenPractico1DAE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danym\Desktop\ExamenPractico1DAE\obj\Debug\net7.0\ExamenPractico1DAE.AssemblyInfoInputs.cache
+C:\Users\danym\Desktop\ExamenPractico1DAE\obj\Debug\net7.0\ExamenPractico1DAE.AssemblyInfo.cs
+C:\Users\danym\Desktop\ExamenPractico1DAE\obj\Debug\net7.0\ExamenPractico1DAE.csproj.CoreCompileInputs.cache
+C:\Users\danym\Desktop\ExamenPractico1DAE\obj\Debug\net7.0\ExamenPractico1DAE.dll
+C:\Users\danym\Desktop\ExamenPractico1DAE\obj\Debug\net7.0\refint\ExamenPractico1DAE.dll
+C:\Users\danym\Desktop\ExamenPractico1DAE\obj\Debug\net7.0\ExamenPractico1DAE.pdb
+C:\Users\danym\Desktop\ExamenPractico1DAE\obj\Debug\net7.0\ExamenPractico1DAE.genruntimeconfig.cache
+C:\Users\danym\Desktop\ExamenPractico1DAE\obj\Debug\net7.0\ref\ExamenPractico1DAE.dll
